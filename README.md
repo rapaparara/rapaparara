@@ -2,15 +2,10 @@
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: [JavaScript, TypeScript, PHP]
-- **Frameworks**: [Laravel, Livewire, Express, Sequelize]
+- **Languages**: [JavaScript, PHP]
+- **Frameworks**: [Laravel, Livewire, Express JS,]
 - **Databases**: [MySQL]
 - **Tools**: [Git, Docker, npm]
-## 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapaparara&show_icons=true&theme=radical)
-
-<!-- Add any additional stats or badges here -->
 
 ---
 
